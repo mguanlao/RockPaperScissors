@@ -1,11 +1,7 @@
 ﻿using RockPaperScissors.Api.BASE.BM;
 using RockPaperScissors.Api.DTO;
 using RockPaperScissors.Api.ENUM;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RockPaperScissors.Api.BM
 {
