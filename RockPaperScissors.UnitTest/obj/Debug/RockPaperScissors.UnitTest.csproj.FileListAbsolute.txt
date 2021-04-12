@@ -1,0 +1,16 @@
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\RockPaperScissors.UnitTest.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\RockPaperScissors.UnitTest.pdb
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\RockPaperScissors.Api.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\RockPaperScissors.Api.pdb
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\obj\Debug\RockPaperScissors.UnitTest.csprojAssemblyReference.cache
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\obj\Debug\RockPaperScissors.UnitTest.csproj.CoreCompileInputs.cache
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\obj\Debug\RockPaperScissors.UnitTest.csproj.CopyComplete
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\obj\Debug\RockPaperScissors.UnitTest.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.UnitTest\obj\Debug\RockPaperScissors.UnitTest.pdb

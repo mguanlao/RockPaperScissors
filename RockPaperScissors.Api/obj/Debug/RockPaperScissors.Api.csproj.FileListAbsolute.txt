@@ -1,0 +1,6 @@
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.Api\obj\Debug\RockPaperScissors.Api.csprojAssemblyReference.cache
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.Api\obj\Debug\RockPaperScissors.Api.csproj.CoreCompileInputs.cache
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.Api\bin\Debug\RockPaperScissors.Api.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.Api\bin\Debug\RockPaperScissors.Api.pdb
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.Api\obj\Debug\RockPaperScissors.Api.dll
+E:\RockPaperScissors\RockPaperScissors\RockPaperScissors.Api\obj\Debug\RockPaperScissors.Api.pdb
